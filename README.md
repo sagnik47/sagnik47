@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagnik47&label=Profile%20views&color=0e75b6&style=flat" alt="sagnik47" /> </p>
 
-- 🔭 I’m currently working at **Greatify.ai**
+- 🔭 I’m currently working at **Greatify.ai as an Intern**
 
 - 🌱 I’m currently learning **JavaScript & Data analysis.**
 
