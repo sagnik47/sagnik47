@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagnik47&label=Profile%20views&color=0e75b6&style=flat" alt="sagnik47" /> </p>
 
-- 🔭 Ex-Intern at **Greatify.ai as an Intern**
+- 🔭 Ex-Intern at **Greatify.ai**
 
-- 🌱 I’m currently learning **Java & Data analysis.**
+- 🌱 I’m currently learning **Data analysis.**
 
 - 📫 How to reach me **sagnikaditya06@gmail.com**
 
